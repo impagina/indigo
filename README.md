@@ -2,6 +2,17 @@
 
 A place for technology previews related to scribus
 
+##
+
+~~~sh
+$ cd indigo/
+$ mkdir build
+$ cd build/
+$ cmake ..
+$ make
+$ ./indigo/indigo
+~~~
+
 Some ideas:
 
 - a plugin API
